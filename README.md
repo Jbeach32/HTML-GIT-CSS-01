@@ -8,9 +8,9 @@ This webpage is a home page for Horiseon that is optimized for search engines an
 
 https://jbeach32.github.io/HTML-GIT-CSS-01/
 
-C:\Users\joshb\OneDrive\Pictures\Screenshots\Screenshot (3).png
-C:\Users\joshb\OneDrive\Pictures\Screenshots\Screenshot (4).png
-C:\Users\joshb\OneDrive\Pictures\Screenshots\Screenshot (5).png
+<Screenshot (3).png>
+<Screenshot (4).png>
+<Screenshot (5).png>
 
 ## Usage
 
@@ -23,3 +23,5 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo. 
+
+[def]: <Screenshot (3).png>
